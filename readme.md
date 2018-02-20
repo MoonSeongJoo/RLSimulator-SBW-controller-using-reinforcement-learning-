@@ -31,4 +31,9 @@ run Steer_Control_Moon.m
 (Change the flag **train_indicator**=1 in EPS_Control_Matlab_1.py if you want to train the network)
 
 # Motivation :
- 자율주행에 관심이 많았고, 
+ 자율주행에 관심이 많았고, 현재 자동차 steering system 개발을 하고 있기 때문에 자율주행 actuator에 관심이 많았다.
+ 그러던 중, 머신러닝 강화학습을 배우게 되면서, steering actuator 콘트롤을 강화학습으로 할 수 있지 않을까 하여 
+ 프로젝트를 시작하게 되었다.
+
+# Background :
+ 
